@@ -26,3 +26,24 @@ ul {
 body {
     background-color: #EDF2F4;
 }
+
+.garlic {
+    height: 25%;
+    width: 25%;
+    position: relative;
+    left: 40%;
+}
+
+.glazed {
+    height: 25%;
+    width: 25%;
+    position: relative;
+    left: 40%;
+}
+
+.green {
+    height: 25%;
+    width: 25%;
+    position: relative;
+    left: 40%;
+}
