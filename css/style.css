@@ -6,7 +6,7 @@ a {
 h1 {
     
     color: #c1121f;
-    background-color: #fdf0d5;
+    background-color: white;
     text-align: center;
     font-weight: bold;
 }
@@ -58,15 +58,21 @@ h4 {
 
 .card {
     width: 400px;
-    background: #EDF2F4;
+    background: white;
     margin: 16px auto;
     padding: 8px;
+    border: #c1121f solid;
+    border-width: 5px;
+    border-radius: 25px;
 }
 
 .tarjeta {
     padding: 8px;
     margin: 16px auto;
-    border: #EF233C solid;
+    border: #780000 solid;
+    border-radius: 25px;
+    width: 80%;
+    background-color: white;
 }
 
 .Description{
@@ -74,16 +80,17 @@ h4 {
     width: 500px;
     margin: 16px auto;
     border: #003049 solid ;
+    border-radius: 25px;
     
 }
 
 .Ingredients{
     padding: 8px;
-    margin: 16px auto 16px 10%;
+    margin: 16px auto 16px 5%;
     border: #669bbc solid;
     border-radius: 25px;
     display: inline-block;
-    width: 500px;
+    width: 400px;
 }
 
 .Steps {
@@ -96,7 +103,7 @@ h4 {
 }
 
 img{
-    border: #669bbc solid;
-    border-width: 10px;
+    border: #c1121f solid;
+    border-width: 5px;
     border-radius: 25px;
 }
