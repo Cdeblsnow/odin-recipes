@@ -24,7 +24,7 @@ ul {
 
 
 body {
-    background-color: #EDF2F4;
+    background-color: #fdf0d5;
 }
 
 .garlic {
@@ -51,4 +51,49 @@ body {
 h3,
 h4 {
     color: #D90429;
+}
+
+.card {
+    width: 400px;
+    background: #EDF2F4;
+    margin: 16px auto;
+    padding: 8px;
+}
+
+.tarjeta {
+    padding: 8px;
+    margin: 16px auto;
+    border: #EF233C solid;
+}
+
+.Description{
+    padding: 8px;
+    width: 500px;
+    margin: 16px auto;
+    border: #EF233C solid ;
+    
+}
+
+.Ingredients{
+    padding: 8px;
+    margin: 16px auto 16px 10%;
+    border: #EF233C solid;
+    border-radius: 25px;
+    display: inline-block;
+    width: 500px;
+}
+
+.Steps {
+    padding: 8px;
+    margin: 16px auto 16px 5%;
+    border: #EF233C solid;
+    border-radius: 25px;
+    display: inline-block;
+    width: 500px;
+}
+
+img{
+    border: #669bbc solid;
+    border-width: 10px;
+    border-radius: 25px;
 }
